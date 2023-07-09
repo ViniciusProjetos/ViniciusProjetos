@@ -34,11 +34,3 @@
  
  
 </div>
-
-<div align="center">
-  <br>
-  <img alt="snake gif" src="https://github.com/ViniciusProjetos/ViniciusProjetos/blob/output/github-contribution-grid-snake.svg">
-  <br>
-  <br>
-  <br>
-</div>
