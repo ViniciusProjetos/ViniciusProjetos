@@ -1,4 +1,4 @@
-## Olá! me chamo Vinicius .
+## Olá! me chamo Vinicius 
 <div>
   <a href="https://github.com/ViniciusProjetos"></a>
       - 📍 São José dos Campos - SP<br>
@@ -35,4 +35,11 @@
  
 </div>
 
-![snake gif](https://github.com/ViniciusProjetos/ViniciusProjetos/blob/output/github-contributon-grid-snake.svg)
+<div align="center">
+  <h2>🐍 Snake eating my contribution 🐍</h2>
+  <br>
+  <img alt="snake eating my contribution" src="https://github.com/ViniciusProjetos/ViniciusProjetos/blob/output/github-contribution-grid-snake.svg">
+  <br>
+  <br>
+  <br>
+</div>
