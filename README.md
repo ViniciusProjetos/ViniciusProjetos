@@ -1,4 +1,4 @@
-## Olá! me chamo Vinicius 
+## Olá! Me chamo Vinicius 
 <div>
   <a href="https://github.com/ViniciusProjetos"></a>
       - 📍 São José dos Campos - SP<br>
