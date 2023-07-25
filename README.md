@@ -5,7 +5,7 @@
       - 📚 Gestão em T.I.<br>
       - 🤹 Python, SQL .<br>
 <br>  
-    <p> Recém-formado em Gestão em T.I. com conhecimentos fundamentais em Python e SQL, em busca de oportunidades para aprimorar e aplicar essas habilidades em projetos de desenvolvimento e análise de dados.</p>
+    <p> Recém-formado em Gestão em T.I. com conhecimentos fundamentais em Python, MySQL, HTML5 e CSS3 em busca de oportunidades para aprimorar e aplicar essas habilidades em projetos de desenvolvimento e análise de dados.</p>
     <br> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusProjetos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusProjetos&layout=compact&langs_count=7&theme=dark"/>
